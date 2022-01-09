@@ -1,6 +1,7 @@
-# FortranKeywords2018
+# Fortran Standard Keywords (2018)  
 
-This repository (and following table) contains a complete list of all Fortran 2018 Standard keywords, including intrinsic procedure arguments.  
+This repository (and the following table) contains a complete list of all Fortran Standard keywords, including intrinsic procedure arguments. 
+This list conforms to the latest Fortran Standard (2018).
 
 | keyword | category |
 | ------- | -------- |
